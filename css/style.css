@@ -10,6 +10,10 @@ main{
     align-items: center;
 }
 
+.image{
+    transition: opacity 0.5s ease;
+}
+
 button{
     height: 40px;
 }
